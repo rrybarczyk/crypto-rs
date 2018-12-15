@@ -1,5 +1,5 @@
 [package]
-name = "crytpo_rs"
+name = "crytpo-rs"
 version = "0.1.0"
 authors = ["RJ <rj@rybar.tech>"]
 
