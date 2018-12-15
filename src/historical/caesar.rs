@@ -1,7 +1,7 @@
 #[derive(Debug)]
 pub struct Caesar {
-    shift: u8,
     text: String,
+    shift: u8,
 }
 
 impl Caesar {
